@@ -1,0 +1,5 @@
+name: Custom Events Demo
+description: Use to dispatch custom Events
+type: module
+package: custom
+core_version_requirement: ^8 || ^9
