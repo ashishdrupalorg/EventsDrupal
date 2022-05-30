@@ -1,7 +1,0 @@
-custom_events_demo.demo_event_dispatcher_form:
-  path: 'event/demo-event-dispatch-form'
-  defaults:
-    _form: '\Drupal\custom_events_demo\Form\DemoEventDispatchForm'
-    _title: 'Event Dispatcher Form'
-  requirements:
-    _permission: 'access administration pages'
